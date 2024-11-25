@@ -1,5 +1,5 @@
 <header>
-    <h1>Welcome to Kedar Kothe Potfolio  </h1>
+    <h1>Welcome to Kedar Kothe Potfolio</h1>
     Finacial Analyst | Business Anlayst
     <p>Your go-to place for all my projects and updates.</p>
 </header> 
@@ -7,12 +7,16 @@
     <ul>
         <li><a href="#about">About Me</a></li>
         <li><a href="#projects">Projects</a></li>
+        <li><a href="#experience">experience</a></li>
         <li><a href="#contact">Contact</a></li>
+        
     </ul>
 </nav>
 <section id="about">
     <h2>About Me</h2>
-    <p>I am a web developer passionate about creating modern, responsive websites. I specialize in JavaScript and Python.</p>
+    <p>A motivated professional with a strong foundation in strategic business development, data visualization, and analytics, currently pursuing a Master of Business Administration at Lewis University. With three years of experience, including managing category strategies and creating interactive Tableau dashboards, and fluency in Hindi, Marathi, and English, they are skilled in Tableau, BI, SQL, and Python.During 
+my externship at HP Tech Ventures, I improved investment decisions by 15% using predictive modeling and sales data analysis. I developed interactive Tableau dashboards, improved SEO, and increased corporate reservations and social media sales. I also made data accessible to non-technical consumers and used data visualization tools for strategic decision-making.
+As individual I enjoys competitive online gaming, particularly multiplayer games, for their strategic challenges and cooperative gameplay. They regularly exercise to maintain physical fitness and mental focus, and as a professional cricket player, they develop leadership and strategic thinking skills.</p>
 </section>
 <section id="projects">
     <h2>Projects</h2>
