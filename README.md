@@ -1,7 +1,5 @@
 <header>
-    <h1>Welcome to Kedar Kothe Potfolio 
-
-        Finacial Analyst | Business Anlayst </h1>
+    <h1>Welcome to Kedar Kothe Potfolio Finacial Analyst | Business Anlayst </h1>
     <p>Your go-to place for all my projects and updates.</p>
 </header> 
 <nav>
