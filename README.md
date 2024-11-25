@@ -1,43 +1,104 @@
-<header>
-    <h1>Welcome to Kedar Kothe Potfolio</h1>
-    Finacial Analyst | Business Anlayst
-    <p>Your go-to place for all my projects and updates.</p>
-</header> 
-<nav>
-    <ul>
-        <li><a href="#about">About Me</a></li>
-        <li><a href="#projects">Projects</a></li>
-        <li><a href="#experience">experience</a></li>
-        <li><a href="#contact">Contact</a></li>
-</nav>
-<section id="about">
-    <h2>About Me</h2>
-    <p>A motivated professional with a strong foundation in strategic business development, data visualization, and analytics, currently pursuing a Master of Business Administration at Lewis University. With three years of experience, including managing category strategies and creating interactive Tableau dashboards, and fluency in Hindi, Marathi, and English, they are skilled in Tableau, BI, SQL, and Python.During 
-my externship at HP Tech Ventures, I improved investment decisions by 15% using predictive modeling and sales data analysis. I developed interactive Tableau dashboards, improved SEO, and increased corporate reservations and social media sales. I also made data accessible to non-technical consumers and used data visualization tools for strategic decision-making.
-As individual I enjoys competitive online gaming, particularly multiplayer games, for their strategic challenges and cooperative gameplay. They regularly exercise to maintain physical fitness and mental focus, and as a professional cricket player, they develop leadership and strategic thinking skills.</p>
-</section>
-<section id="projects">
-    <h2>Projects</h2>
-    <ul>
-        <li>
-            <h3>Project 1: My Portfolio</h3>
-            <p>A responsive personal portfolio website.</p>
-            <a href="https://github.com/yourusername/portfolio" target="_blank">View on GitHub</a>
-        </li>
-        <li>
-            <h3>Project 2: Weather App</h3>
-            <p>An app that shows current weather using a public API.</p>
-            <a href="https://your-weather-app-link.com" target="_blank">Live Demo</a>
-        </li>
-    </ul>
-</section>
-<section id="contact">
-    <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:yourname@example.com">kedar.kothe2008@gmail.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">[https://www.linkedin.com/in/kedar-kothe-4533b8187/]</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">https://github.com/Kedar010-sub</a></p>
-</section>
-<footer>
-    <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
-    <p><a href="#top">Back to top</a></p>
-</footer>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kedar Kothe - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+        }
+        header {
+            background: #333;
+            color: #fff;
+            padding: 10px 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        section {
+            margin: 20px 0;
+            padding: 20px;
+            background: #fff;
+            border-radius: 5px;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        a {
+            color: #007bff;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Kedar Kothe</h1>
+        <p>Chicago, Illinois | <a href="mailto:Kedar.kothe2008@gmail.com">Kedar.kothe2008@gmail.com</a> | +1-551-229-8195</p>
+        <p><a href="https://www.linkedin.com/in/kedar-kothe-4533b8187/" target="_blank">LinkedIn Profile</a></p>
+    </header>
+
+    <div class="container">
+        <section>
+            <h2>Education</h2>
+            <p><strong>Lewis University</strong> | Romeoville, Illinois</p>
+            <p>Master of Business Administration (Business Analytics, Finance), GPA: 3.78 (Expected: August 2025)</p>
+            <p><strong>Tirpude Institute of Hospitality Management</strong> | Nagpur, India</p>
+            <p>Bachelor of Science in Hospitality Management, CGPA: 7.48 (Graduated: December 2018)</p>
+        </section>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>Programming Languages: C, Python, HTML</li>
+                <li>Data Analysis & Visualization Tools: Tableau, Weka, Power BI, Excel</li>
+                <li>Database Technologies: SQL, MySQL, SAP, Salesforce</li>
+                <li>Soft Skills: Attention to detail, Teamwork, Leadership, Problem-Solving</li>
+                <li>Core Skills: Business Development, Data Visualization, Database Management</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Experience</h2>
+            <h3>HP Tech Ventures | Business Analytics Externship</h3>
+            <p><i>Remote, Chicago, Illinois (April 2024 - June 2024)</i></p>
+            <ul>
+                <li>Performed sales data analysis and created predictive models improving investment decision-making by 15%.</li>
+                <li>Utilized Power BI for advanced analytics and operations research.</li>
+            </ul>
+            <!-- Add other roles similarly -->
+        </section>
+
+        <section>
+            <h2>Projects</h2>
+            <h3>Bank+ Marketing Dataset Analysis</h3>
+            <p>Built machine learning models improving accuracy by 15% for subscription prediction.</p>
+            <h3>Fake News Detection</h3>
+            <p>Utilized NLP techniques to enhance fake news detection accuracy by 18%.</p>
+        </section>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
+    </footer>
+</body>
+</html>
