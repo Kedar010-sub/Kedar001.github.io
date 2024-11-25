@@ -1,7 +1,8 @@
 <header>
     <h1>Welcome to My Portfolio</h1>
     <p>Your go-to place for all my projects and updates.</p>
-</header>
+</header> Kedar Kothe 
+Finacial Analyst | Business Anlayst 
 <nav>
     <ul>
         <li><a href="#about">About Me</a></li>
@@ -35,8 +36,6 @@
     <p>GitHub: <a href="https://github.com/yourusername" target="_blank">Your GitHub</a></p>
 </section>
 <footer>
-    <p>&copy; 2024 Your Name. All rights reserved.</p>
+    <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
     <p><a href="#top">Back to top</a></p>
 </footer>
-<footer>
-        <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
