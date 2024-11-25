@@ -35,9 +35,9 @@ As individual I enjoys competitive online gaming, particularly multiplayer games
 </section>
 <section id="contact">
     <h2>Contact Me</h2>
-    <p>Email: <a href="mailto:yourname@example.com">yourname@example.com</a></p>
-    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">Your LinkedIn</a></p>
-    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">Your GitHub</a></p>
+    <p>Email: <a href="mailto:yourname@example.com">kedar.kothe2008@gmail.com</a></p>
+    <p>LinkedIn: <a href="https://linkedin.com/in/yourprofile" target="_blank">[https://www.linkedin.com/in/kedar-kothe-4533b8187/]</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">https://github.com/Kedar010-sub</a></p>
 </section>
 <footer>
     <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
