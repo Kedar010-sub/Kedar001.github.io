@@ -1,104 +1,68 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Kedar Kothe - Portfolio</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 0;
-            background-color: #f4f4f9;
-            color: #333;
-            line-height: 1.6;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding: 10px 0;
-            text-align: center;
-        }
-        .container {
-            width: 80%;
-            margin: auto;
-            overflow: hidden;
-        }
-        section {
-            margin: 20px 0;
-            padding: 20px;
-            background: #fff;
-            border-radius: 5px;
-            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        a {
-            color: #007bff;
-            text-decoration: none;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        footer {
-            text-align: center;
-            padding: 10px 0;
-            background: #333;
-            color: #fff;
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>kedar kothe - Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <header>
-        <h1>Kedar Kothe</h1>
-        <p>Chicago, Illinois | <a href="mailto:Kedar.kothe2008@gmail.com">Kedar.kothe2008@gmail.com</a> | +1-551-229-8195</p>
-        <p><a href="https://www.linkedin.com/in/kedar-kothe-4533b8187/" target="_blank">LinkedIn Profile</a></p>
-    </header>
-
+  <header class="hero">
     <div class="container">
-        <section>
-            <h2>Education</h2>
-            <p><strong>Lewis University</strong> | Romeoville, Illinois</p>
-            <p>Master of Business Administration (Business Analytics, Finance), GPA: 3.78 (Expected: August 2025)</p>
-            <p><strong>Tirpude Institute of Hospitality Management</strong> | Nagpur, India</p>
-            <p>Bachelor of Science in Hospitality Management, CGPA: 7.48 (Graduated: December 2018)</p>
-        </section>
-
-        <section>
-            <h2>Skills</h2>
-            <ul>
-                <li>Programming Languages: C, Python, HTML</li>
-                <li>Data Analysis & Visualization Tools: Tableau, Weka, Power BI, Excel</li>
-                <li>Database Technologies: SQL, MySQL, SAP, Salesforce</li>
-                <li>Soft Skills: Attention to detail, Teamwork, Leadership, Problem-Solving</li>
-                <li>Core Skills: Business Development, Data Visualization, Database Management</li>
-            </ul>
-        </section>
-
-        <section>
-            <h2>Experience</h2>
-            <h3>HP Tech Ventures | Business Analytics Externship</h3>
-            <p><i>Remote, Chicago, Illinois (April 2024 - June 2024)</i></p>
-            <ul>
-                <li>Performed sales data analysis and created predictive models improving investment decision-making by 15%.</li>
-                <li>Utilized Power BI for advanced analytics and operations research.</li>
-            </ul>
-            <!-- Add other roles similarly -->
-        </section>
-
-        <section>
-            <h2>Projects</h2>
-            <h3>Bank+ Marketing Dataset Analysis</h3>
-            <p>Built machine learning models improving accuracy by 15% for subscription prediction.</p>
-            <h3>Fake News Detection</h3>
-            <p>Utilized NLP techniques to enhance fake news detection accuracy by 18%.</p>
-        </section>
+      <h1>Kedar Kothe</h1>
+      <p> Business Analyst | Financial Analyst</p>
     </div>
+  </header>
 
-    <footer>
-        <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
-    </footer>
+  <nav class="navbar">
+    <div class="container">
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#contact">Contact</a>
+    </div>
+  </nav>
+
+  <section id="about" class="about">
+    <div class="container">
+      <h2>About Me</h2>
+      <p>
+        Hi, I'm Kedar, a motivated professional with a strong foundation in strategic business development, data visualization, and business analytics. I enjoy learning new technologies and working on exciting projects.
+      </p>
+    </div>
+  </section>
+
+  <section id="projects" class="projects">
+    <div class="container">
+      <h2>Projects</h2>
+      <ul>
+        <li>
+          <a href="https://github.com/viraj63/project1" target="_blank">Project 1</a> - A brief description of the project.
+        </li>
+        <li>
+          <a href="https://github.com/viraj63/project2" target="_blank">Project 2</a> - Another brief description.
+        </li>
+        <li>
+          <a href="https://github.com/viraj63/project3" target="_blank">Project 3</a> - Another brief description.
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="contact" class="contact">
+    <div class="container">
+      <h2>Contact Me</h2>
+      <p>
+        Email: <a href="mailto:kedar@example.com">kedar.kothe2008@gmail.com</a><br>
+        GitHub: <a href="https://github.com/kedar010-sub" target="_blank">github.com/https://github.com/Kedar010-sub</a>
+      </p>
+    </div>
+  </section>
+
+  <footer class="footer">
+    <div class="container">
+      <p>&copy; 2024 Kedar Kothe. All rights reserved.</p>
+    </div>
+  </footer>
 </body>
 </html>
